@@ -31,10 +31,10 @@ In the refactored code for this challenge, we created output arrays to capture v
 This was my first experience with VBA. For the most part, the challenge went smoothly. After my first attempt, I was receiving an “overflow” error message when I tried to run the code. The debug was pointing me to a part of the code that wasn’t ultimately the source of the issue. I used Google to research the issue and possible causes, and also reached out to my classmates on Slack. I realized that I have over-complicated the refactored code by creating a nested loop and inadvertently using a variable name twice.
 
 Working through this taught me the importance of a few things:
--the value of keeping things simple when writing and refactoring code
--don’t hesitate to rely on resources such as Google and the experience of others
--the collaborative nature of coding
--not always relying on Excel’s debugger to point you to the source of the coding issue
+- the value of keeping things simple when writing and refactoring code
+- don’t hesitate to rely on resources such as Google and the experience of others
+- the collaborative nature of coding
+- not always relying on Excel’s debugger to point you to the source of the coding issue
 
 ## Summary
 
