@@ -17,12 +17,12 @@ Regarding stock performance for the years reviewed, 2017 showed better returns f
 In the refactored code for this challenge, we created output arrays to capture volume, starting prices, and ending prices for each of the tickers reviewed. This allowed us to close that loop before moving on to part 4 of the challenge, where we dropped the values into our output sheet. Qualitatively, it felt more efficient than creating the nested loops that we did in the asynchronous material. Our timer test also supported this quantitatively. The results of the timer show that our refactoring shaved roughly 0.5 seconds off the code’s run time.
 
 ***2017 Run Time***
-![2017 Refactored Run Time](/Resources/VBA_Challenge_2017.png)
-![2017 Old Run Time](/Resources/VBA_Challenge_2017_old.png)
+![2017 Refactored Run Time](/Resources/VBA_Challenge_2017.PNG)
+![2017 Old Run Time](/Resources/VBA_Challenge_2017_old.PNG)
 
 ***2018 Run Time***
-![2018 Refactored Run Time](/Resources/VBA_Challenge_2018.png)
-![2018 Old Run Time](/Resources/VBA_Challenge_2018_old.png)
+![2018 Refactored Run Time](/Resources/VBA_Challenge_2018.PNG)
+![2018 Old Run Time](/Resources/VBA_Challenge_2018_old.PNG)
 
 ### Challenges and Difficulties Encountered
 
