@@ -4,7 +4,7 @@
 
 ### Purpose
 
-The purpose of this analysis is to help our client, Steve, to create a scalable stock analysis report using VBA. He wants to be able to run the report for several different stocks for a specified year, and then pull back information regarding each stock’s volume and return over that year. Prior to this, we created an analysis that did this analysis for us, but now we’re looking to improve (or refactor) our code to enhance its performance. Steve will use this reporting to help his parents make investing decisions.
+The purpose of this analysis is to help our client, Steve, to create a scalable stock analysis report using VBA. He wants to be able to run the report for several different stocks for a specified year, and then pull back information regarding each stock’s volume and return over that year. Prior to this, we created code that did this analysis for us, but now we’re looking to improve (or refactor) our code to enhance its performance. Steve will use this reporting to help his parents make investing decisions.
 
 ## Analysis and Challenges
 
